@@ -1,5 +1,5 @@
 # Melanoma-Skin-Cancer-Classification
-Detection of Melanoma Skin Cancer from Dermoscopic Images by using Image processing, Noise Reduction and Machine Learning Techniques to classify Images
+Detection of Melanoma Skin Cancer from Dermascopic Images by using Image processing, Noise Reduction and Machine Learning Techniques to classify Images
 
 Link to Original Dermoscopic Image Dataset 
 https://drive.google.com/drive/folders/1rUVuoRjL_QgaUi65XlFwy38c43AIMCv_?usp=sharing
