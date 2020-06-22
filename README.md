@@ -20,21 +20,21 @@ Link to feature Engineered Images
 https://drive.google.com/drive/folders/1PlrlGuBbfAFnZGArjY_Mw7WWSCBGrqP0?usp=sharing
 
 #### Libraries Used 
-  <ul><li>scipy.io</li>
-  <li>numpy</li>
-  <li>pandas</li>
-  <li>matplotlib.pyplot</li>
-  <li>matplotlib.image</li>
-  <li>seaborn</li> 
-  <li>skimage</li>
-  <li>PIL</li>
-  <li>skimage</li>
-  <li>sklearn</li>
-  <li>fnmatch</li>
-  <li>os</li>
-  <li>sys</li>
-  <li>cv2</li>
-  <li>warnings</li></ul>
+- scipy.io
+- numpy
+- pandas
+- matplotlib.pyplot
+- matplotlib.image
+- seaborn 
+- skimage
+- PIL
+- skimage
+- sklearn
+- fnmatch
+- os
+- sys
+- cv2
+- warnings
 
 #### Files here include:
 - <b> INSTRUCTIONS ON RUNNING THE CLASSIFICATION MODEL.docx </b> - How to run the model
