@@ -9,7 +9,7 @@ The results of this mpdel will be compared to the benchmark model which is the s
 
 <b> The images can be found openly here:</b>
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
 
 Alternatively, you can download them here:
 
