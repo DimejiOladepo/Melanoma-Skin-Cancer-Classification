@@ -54,9 +54,9 @@ https://drive.google.com/drive/folders/1PlrlGuBbfAFnZGArjY_Mw7WWSCBGrqP0?usp=sha
 
 <p> 
 <b> Feature Engineered SVM versus Feature Engineered Gaussian NB </b>
-
+</p>
 |  Classifier  | Accuracy | Precision | Recall | F1 score | Cross-Validation score |
 | --- | --- | --- | --- | --- | --- |
 |  Gaussian NB  | 0.678 | 0.723 | 0.680 | 0.701 | 0.757
 | SVM | 0.622 | 0.674 | 0.620 | 0.645 | 0.643 
-</p>
+
