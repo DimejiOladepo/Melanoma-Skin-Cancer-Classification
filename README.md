@@ -37,11 +37,10 @@ https://drive.google.com/drive/folders/1PlrlGuBbfAFnZGArjY_Mw7WWSCBGrqP0?usp=sha
 - warnings
 
 #### Files here include:
+- <b> Project Proposal.pdf </b> - Scope and goal of project
 - <b> INSTRUCTIONS ON RUNNING THE CLASSIFICATION MODEL.docx </b> - How to run the model
 - <b> Skin Cancer Project.pdf </b> - Model Report 
 - <b> Skin Submission.ipynb </b> - Model Notebook with code used 
-- <b> Skin.html </b> - Model report in html 
-
 
 ###  Result Summary:
 
